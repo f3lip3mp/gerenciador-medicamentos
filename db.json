@@ -1,0 +1,11 @@
+{
+    "medicamentos": [
+      { "id": 1, "nome": "Paracetamol", "dosagem": "500mg" },
+      { "id": 2, "nome": "Ibuprofeno", "dosagem": "400mg" }
+    ],
+    "usuarios": [
+      { "id": 1, "nome": "Ana Silva", "email": "ana@gmail.com" },
+      { "id": 2, "nome": "João Souza", "email": "joao@gmail.com" }
+    ]
+}
+  

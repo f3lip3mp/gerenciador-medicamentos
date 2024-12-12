@@ -7,5 +7,5 @@ export const appRoutes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'medicamentos', component: MedicamentosComponent },
   { path: 'usuarios', component: UsuariosComponent },
-  { path: '**', redirectTo: '' },
+  { path: '**', redirectTo: '' }, // Rota de fallback
 ];
